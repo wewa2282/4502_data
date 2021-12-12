@@ -19,4 +19,4 @@ Weiqiang Wang:Data preprocessing, data visualization of covid 19 confirmed case 
 
 Reid Pritchard:
 
-Haifeng Jiang:
+Haifeng Jiang:Data visualization of COVID-19.
