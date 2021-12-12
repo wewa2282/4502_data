@@ -14,7 +14,8 @@ new_data: The hospital beds we are using after the pre-process.
 
 
 Contribution:
-Weiqiang Wang:
+
+Weiqiang Wang:Data preprocessing, data visualization of covid 19 confirmed case and vaccination.
 
 Reid Pritchard:
 
