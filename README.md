@@ -15,5 +15,7 @@ new_data: The hospital beds we are using after the pre-process.
 
 Contribution:
 Weiqiang Wang:
+
 Reid Pritchard:
+
 Haifeng Jiang:
