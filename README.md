@@ -10,3 +10,10 @@ COVID-19_Vaccinations_in_the_United_States_Jurisdiction.csv: vaccination dataset
 Reported_Patient: hospital beds dataset from CDC
 
 new_data: The hospital beds we are using after the pre-process.
+
+
+
+Contribution:
+Weiqiang Wang:
+Reid Pritchard:
+Haifeng Jiang:
